@@ -25,7 +25,7 @@ SECRET_KEY = '5gk-43puqja61-ngt*sq$9_1*$4lx$*92s#f)*b*z4%ds**23('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<petrakut>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'petrakut.pythonanywhere.com']
 
 
 # Application definition
